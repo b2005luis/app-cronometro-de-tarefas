@@ -1,4 +1,6 @@
-# App React Test
+# App Cronômetro de Tarefas
+
+Aplicativo de lista de tarefas com cronômetro de tempo de realização de uma tarefa.
 
 ### Depencies:
 
